@@ -1,0 +1,4012 @@
+Connected
+BITalinoV3.10_20130710
+Start Acquisition
+Data read
+CLOSED
+Done
+
+light =
+
+    11
+
+
+ans =
+
+     3
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9633
+
+
+avgSum =
+
+   10.9667
+
+
+avgSum =
+
+   10.9700
+
+
+avgSum =
+
+   10.9700
+
+
+avgSum =
+
+   10.9700
+
+
+avgSum =
+
+   10.9733
+
+
+avgSum =
+
+   10.9733
+
+
+avgSum =
+
+   10.9767
+
+
+avgSum =
+
+   10.9767
+
+
+avgSum =
+
+   10.9767
+
+
+avgSum =
+
+   10.9800
+
+
+avgSum =
+
+   10.9800
+
+
+avgSum =
+
+   10.9833
+
+
+avgSum =
+
+   10.9833
+
+
+avgSum =
+
+   10.9867
+
+
+avgSum =
+
+   10.9900
+
+
+avgSum =
+
+   10.9833
+
+
+avgSum =
+
+   10.9800
+
+
+avgSum =
+
+   10.9667
+
+
+avgSum =
+
+   10.9533
+
+
+avgSum =
+
+   10.9400
+
+
+avgSum =
+
+   10.9267
+
+
+avgSum =
+
+   10.9167
+
+
+avgSum =
+
+   10.9033
+
+
+avgSum =
+
+   10.8900
+
+
+avgSum =
+
+   10.8767
+
+
+avgSum =
+
+   10.8633
+
+
+avgSum =
+
+   10.8533
+
+
+avgSum =
+
+   10.8400
+
+
+avgSum =
+
+   10.8267
+
+
+avgSum =
+
+   10.8133
+
+
+avgSum =
+
+   10.8000
+
+
+avgSum =
+
+   10.7867
+
+
+avgSum =
+
+   10.7733
+
+
+avgSum =
+
+   10.7600
+
+
+avgSum =
+
+   10.7467
+
+
+avgSum =
+
+   10.7333
+
+
+avgSum =
+
+   10.7200
+
+
+avgSum =
+
+   10.7067
+
+
+avgSum =
+
+   10.6933
+
+
+avgSum =
+
+   10.6800
+
+
+avgSum =
+
+   10.6667
+
+
+avgSum =
+
+   10.6533
+
+
+avgSum =
+
+   10.6400
+
+
+avgSum =
+
+   10.6267
+
+
+avgSum =
+
+   10.6133
+
+
+avgSum =
+
+   10.6000
+
+
+avgSum =
+
+   10.5867
+
+
+avgSum =
+
+   10.5733
+
+
+avgSum =
+
+   10.5600
+
+
+avgSum =
+
+   10.5467
+
+
+avgSum =
+
+   10.5333
+
+
+avgSum =
+
+   10.5200
+
+
+avgSum =
+
+   10.5067
+
+
+avgSum =
+
+   10.4933
+
+
+avgSum =
+
+   10.4800
+
+
+avgSum =
+
+   10.4667
+
+
+avgSum =
+
+   10.4533
+
+
+avgSum =
+
+   10.4400
+
+
+avgSum =
+
+   10.4267
+
+
+avgSum =
+
+   10.4133
+
+
+avgSum =
+
+   10.4000
+
+
+avgSum =
+
+   10.3867
+
+
+avgSum =
+
+   10.3733
+
+
+avgSum =
+
+   10.3600
+
+
+avgSum =
+
+   10.3467
+
+
+avgSum =
+
+   10.3333
+
+
+avgSum =
+
+   10.3200
+
+
+avgSum =
+
+   10.3067
+
+
+avgSum =
+
+   10.2933
+
+
+avgSum =
+
+   10.2800
+
+
+avgSum =
+
+   10.2667
+
+
+avgSum =
+
+   10.2533
+
+
+avgSum =
+
+   10.2400
+
+
+avgSum =
+
+   10.2267
+
+
+avgSum =
+
+   10.2133
+
+
+avgSum =
+
+   10.2000
+
+
+avgSum =
+
+   10.1867
+
+
+avgSum =
+
+   10.1733
+
+
+avgSum =
+
+   10.1600
+
+
+avgSum =
+
+   10.1467
+
+
+avgSum =
+
+   10.1333
+
+
+avgSum =
+
+   10.1200
+
+
+avgSum =
+
+   10.1067
+
+
+avgSum =
+
+   10.0933
+
+
+avgSum =
+
+   10.0800
+
+
+avgSum =
+
+   10.0667
+
+
+avgSum =
+
+   10.0533
+
+
+avgSum =
+
+   10.0400
+
+
+avgSum =
+
+   10.0267
+
+
+avgSum =
+
+   10.0133
+
+
+avgSum =
+
+    10
+
+
+avgSum =
+
+    9.9867
+
+
+avgSum =
+
+    9.9733
+
+
+avgSum =
+
+    9.9600
+
+
+avgSum =
+
+    9.9467
+
+
+avgSum =
+
+    9.9333
+
+
+avgSum =
+
+    9.9200
+
+
+avgSum =
+
+    9.9067
+
+
+avgSum =
+
+    9.8933
+
+
+avgSum =
+
+    9.8800
+
+
+avgSum =
+
+    9.8667
+
+
+avgSum =
+
+    9.8533
+
+
+avgSum =
+
+    9.8400
+
+
+avgSum =
+
+    9.8267
+
+
+avgSum =
+
+    9.8133
+
+
+avgSum =
+
+    9.8000
+
+
+avgSum =
+
+    9.7867
+
+
+avgSum =
+
+    9.7733
+
+
+avgSum =
+
+    9.7600
+
+
+avgSum =
+
+    9.7467
+
+
+avgSum =
+
+    9.7333
+
+
+avgSum =
+
+    9.7200
+
+
+avgSum =
+
+    9.7067
+
+
+avgSum =
+
+    9.6933
+
+
+avgSum =
+
+    9.6800
+
+
+avgSum =
+
+    9.6667
+
+
+avgSum =
+
+    9.6533
+
+
+avgSum =
+
+    9.6400
+
+
+avgSum =
+
+    9.6267
+
+
+avgSum =
+
+    9.6133
+
+
+avgSum =
+
+    9.6000
+
+
+avgSum =
+
+    9.5867
+
+
+avgSum =
+
+    9.5733
+
+
+avgSum =
+
+    9.5600
+
+
+avgSum =
+
+    9.5467
+
+
+avgSum =
+
+    9.5333
+
+
+avgSum =
+
+    9.5200
+
+
+avgSum =
+
+    9.5067
+
+
+avgSum =
+
+    9.4933
+
+
+avgSum =
+
+    9.4800
+
+
+avgSum =
+
+    9.4667
+
+
+avgSum =
+
+    9.4533
+
+
+avgSum =
+
+    9.4400
+
+
+avgSum =
+
+    9.4267
+
+
+avgSum =
+
+    9.4133
+
+
+avgSum =
+
+    9.4000
+
+
+avgSum =
+
+    9.3867
+
+
+avgSum =
+
+    9.3733
+
+
+avgSum =
+
+    9.3600
+
+
+avgSum =
+
+    9.3467
+
+
+avgSum =
+
+    9.3333
+
+
+avgSum =
+
+    9.3200
+
+
+avgSum =
+
+    9.3067
+
+
+avgSum =
+
+    9.2933
+
+
+avgSum =
+
+    9.2800
+
+
+avgSum =
+
+    9.2667
+
+
+avgSum =
+
+    9.2533
+
+
+avgSum =
+
+    9.2400
+
+
+avgSum =
+
+    9.2267
+
+
+avgSum =
+
+    9.2133
+
+
+avgSum =
+
+    9.2000
+
+
+avgSum =
+
+    9.1867
+
+
+avgSum =
+
+    9.1733
+
+
+avgSum =
+
+    9.1600
+
+
+avgSum =
+
+    9.1467
+
+
+avgSum =
+
+    9.1333
+
+
+avgSum =
+
+    9.1200
+
+
+avgSum =
+
+    9.1067
+
+
+avgSum =
+
+    9.0933
+
+
+avgSum =
+
+    9.0800
+
+
+avgSum =
+
+    9.0667
+
+
+avgSum =
+
+    9.0533
+
+
+avgSum =
+
+    9.0400
+
+
+avgSum =
+
+    9.0267
+
+
+avgSum =
+
+    9.0167
+
+
+avgSum =
+
+    9.0033
+
+
+avgSum =
+
+    8.9900
+
+
+avgSum =
+
+    8.9767
+
+
+avgSum =
+
+    8.9633
+
+
+avgSum =
+
+    8.9533
+
+
+avgSum =
+
+    8.9400
+
+
+avgSum =
+
+    8.9300
+
+
+avgSum =
+
+    8.9167
+
+
+avgSum =
+
+    8.9033
+
+
+avgSum =
+
+    8.8933
+
+
+avgSum =
+
+    8.8800
+
+
+avgSum =
+
+    8.8667
+
+
+avgSum =
+
+    8.8567
+
+
+avgSum =
+
+    8.8433
+
+
+avgSum =
+
+    8.8300
+
+
+avgSum =
+
+    8.8167
+
+
+avgSum =
+
+    8.8033
+
+
+avgSum =
+
+    8.7900
+
+
+avgSum =
+
+    8.7767
+
+
+avgSum =
+
+    8.7633
+
+
+avgSum =
+
+    8.7500
+
+
+avgSum =
+
+    8.7367
+
+
+avgSum =
+
+    8.7233
+
+
+avgSum =
+
+    8.7100
+
+
+avgSum =
+
+    8.6967
+
+
+avgSum =
+
+    8.6833
+
+
+avgSum =
+
+    8.6700
+
+
+avgSum =
+
+    8.6567
+
+
+avgSum =
+
+    8.6433
+
+
+avgSum =
+
+    8.6300
+
+
+avgSum =
+
+    8.6167
+
+
+avgSum =
+
+    8.6033
+
+
+avgSum =
+
+    8.5900
+
+
+avgSum =
+
+    8.5767
+
+
+avgSum =
+
+    8.5633
+
+
+avgSum =
+
+    8.5500
+
+
+avgSum =
+
+    8.5367
+
+
+avgSum =
+
+    8.5233
+
+
+avgSum =
+
+    8.5100
+
+
+avgSum =
+
+    8.4967
+
+
+avgSum =
+
+    8.4833
+
+
+avgSum =
+
+    8.4700
+
+
+avgSum =
+
+    8.4567
+
+
+avgSum =
+
+    8.4433
+
+
+avgSum =
+
+    8.4300
+
+
+avgSum =
+
+    8.4167
+
+
+avgSum =
+
+    8.4033
+
+
+avgSum =
+
+    8.3900
+
+
+avgSum =
+
+    8.3767
+
+
+avgSum =
+
+    8.3633
+
+
+avgSum =
+
+    8.3500
+
+
+avgSum =
+
+    8.3367
+
+
+avgSum =
+
+    8.3233
+
+
+avgSum =
+
+    8.3100
+
+
+avgSum =
+
+    8.2967
+
+
+avgSum =
+
+    8.2833
+
+
+avgSum =
+
+    8.2700
+
+
+avgSum =
+
+    8.2567
+
+
+avgSum =
+
+    8.2433
+
+
+avgSum =
+
+    8.2300
+
+
+avgSum =
+
+    8.2167
+
+
+avgSum =
+
+    8.2033
+
+
+avgSum =
+
+    8.1900
+
+
+avgSum =
+
+    8.1767
+
+
+avgSum =
+
+    8.1633
+
+
+avgSum =
+
+    8.1500
+
+
+avgSum =
+
+    8.1367
+
+
+avgSum =
+
+    8.1233
+
+
+avgSum =
+
+    8.1100
+
+
+avgSum =
+
+    8.0967
+
+
+avgSum =
+
+    8.0833
+
+
+avgSum =
+
+    8.0700
+
+
+avgSum =
+
+    8.0567
+
+
+avgSum =
+
+    8.0433
+
+
+avgSum =
+
+    8.0300
+
+
+avgSum =
+
+    8.0167
+
+
+avgSum =
+
+    8.0033
+
+
+avgSum =
+
+    7.9800
+
+
+avgSum =
+
+    7.9567
+
+
+avgSum =
+
+    7.9333
+
+
+avgSum =
+
+    7.9067
+
+
+avgSum =
+
+    7.8833
+
+
+avgSum =
+
+    7.8600
+
+
+avgSum =
+
+    7.8367
+
+
+avgSum =
+
+    7.8133
+
+
+avgSum =
+
+    7.7900
+
+
+avgSum =
+
+    7.7667
+
+
+avgSum =
+
+    7.7433
+
+
+avgSum =
+
+    7.7200
+
+
+avgSum =
+
+    7.6933
+
+
+avgSum =
+
+    7.6700
+
+
+avgSum =
+
+    7.6433
+
+
+avgSum =
+
+    7.6200
+
+
+avgSum =
+
+    7.5967
+
+
+avgSum =
+
+    7.5700
+
+
+avgSum =
+
+    7.5467
+
+
+avgSum =
+
+    7.5233
+
+
+avgSum =
+
+    7.5000
+
+
+avgSum =
+
+    7.4767
+
+
+avgSum =
+
+    7.4533
+
+
+avgSum =
+
+    7.4300
+
+
+avgSum =
+
+    7.4067
+
+
+avgSum =
+
+    7.3833
+
+
+avgSum =
+
+    7.3600
+
+
+avgSum =
+
+    7.3367
+
+
+avgSum =
+
+    7.3133
+
+
+avgSum =
+
+    7.2900
+
+
+avgSum =
+
+    7.2633
+
+
+avgSum =
+
+    7.2367
+
+
+avgSum =
+
+    7.2133
+
+
+avgSum =
+
+    7.1900
+
+
+avgSum =
+
+    7.1667
+
+
+avgSum =
+
+    7.1433
+
+
+avgSum =
+
+    7.1200
+
+
+avgSum =
+
+    7.0967
+
+
+avgSum =
+
+    7.0733
+
+
+avgSum =
+
+    7.0467
+
+
+avgSum =
+
+    7.0233
+
+
+avgSum =
+
+     7
+
+
+avgSum =
+
+    6.9767
+
+
+avgSum =
+
+    6.9533
+
+
+avgSum =
+
+    6.9300
+
+
+avgSum =
+
+    6.9067
+
+
+avgSum =
+
+    6.8833
+
+
+avgSum =
+
+    6.8600
+
+
+avgSum =
+
+    6.8367
+
+
+avgSum =
+
+    6.8133
+
+
+avgSum =
+
+    6.7900
+
+
+avgSum =
+
+    6.7667
+
+
+avgSum =
+
+    6.7433
+
+
+avgSum =
+
+    6.7200
+
+
+avgSum =
+
+    6.6967
+
+
+avgSum =
+
+    6.6733
+
+
+avgSum =
+
+    6.6467
+
+
+avgSum =
+
+    6.6233
+
+
+avgSum =
+
+    6.6000
+
+
+avgSum =
+
+    6.5767
+
+
+avgSum =
+
+    6.5533
+
+
+avgSum =
+
+    6.5300
+
+
+avgSum =
+
+    6.5067
+
+
+avgSum =
+
+    6.4833
+
+
+avgSum =
+
+    6.4600
+
+
+avgSum =
+
+    6.4367
+
+
+avgSum =
+
+    6.4133
+
+
+avgSum =
+
+    6.3900
+
+
+avgSum =
+
+    6.3667
+
+
+avgSum =
+
+    6.3433
+
+
+avgSum =
+
+    6.3200
+
+
+avgSum =
+
+    6.2967
+
+
+avgSum =
+
+    6.2733
+
+
+avgSum =
+
+    6.2533
+
+
+avgSum =
+
+    6.2367
+
+
+avgSum =
+
+    6.2267
+
+
+avgSum =
+
+    6.2167
+
+
+avgSum =
+
+    6.2067
+
+
+avgSum =
+
+    6.1967
+
+
+avgSum =
+
+    6.1867
+
+
+avgSum =
+
+    6.1767
+
+
+avgSum =
+
+    6.1667
+
+
+avgSum =
+
+    6.1567
+
+
+avgSum =
+
+    6.1467
+
+
+avgSum =
+
+    6.1333
+
+
+avgSum =
+
+    6.1233
+
+
+avgSum =
+
+    6.1100
+
+
+avgSum =
+
+    6.0967
+
+
+avgSum =
+
+    6.0867
+
+
+avgSum =
+
+    6.0767
+
+
+avgSum =
+
+    6.0667
+
+
+avgSum =
+
+    6.0567
+
+
+avgSum =
+
+    6.0467
+
+
+avgSum =
+
+    6.0367
+
+
+avgSum =
+
+    6.0233
+
+
+avgSum =
+
+    6.0133
+
+
+avgSum =
+
+     6
+
+
+avgSum =
+
+    5.9900
+
+
+avgSum =
+
+    5.9800
+
+
+avgSum =
+
+    5.9667
+
+
+avgSum =
+
+    5.9567
+
+
+avgSum =
+
+    5.9467
+
+
+avgSum =
+
+    5.9367
+
+
+avgSum =
+
+    5.9267
+
+
+avgSum =
+
+    5.9133
+
+
+avgSum =
+
+    5.9033
+
+
+avgSum =
+
+    5.8933
+
+
+avgSum =
+
+    5.8833
+
+
+avgSum =
+
+    5.8700
+
+
+avgSum =
+
+    5.8600
+
+
+avgSum =
+
+    5.8500
+
+
+avgSum =
+
+    5.8400
+
+
+avgSum =
+
+    5.8300
+
+
+avgSum =
+
+    5.8167
+
+
+avgSum =
+
+    5.8067
+
+
+avgSum =
+
+    5.7967
+
+
+avgSum =
+
+    5.7867
+
+
+avgSum =
+
+    5.7767
+
+
+avgSum =
+
+    5.7667
+
+
+avgSum =
+
+    5.7567
+
+
+avgSum =
+
+    5.7467
+
+
+avgSum =
+
+    5.7367
+
+
+avgSum =
+
+    5.7267
+
+
+avgSum =
+
+    5.7167
+
+
+avgSum =
+
+    5.7067
+
+
+avgSum =
+
+    5.6967
+
+
+avgSum =
+
+    5.6867
+
+
+avgSum =
+
+    5.6767
+
+
+avgSum =
+
+    5.6667
+
+
+avgSum =
+
+    5.6567
+
+
+avgSum =
+
+    5.6467
+
+
+avgSum =
+
+    5.6367
+
+
+avgSum =
+
+    5.6267
+
+
+avgSum =
+
+    5.6167
+
+
+avgSum =
+
+    5.6067
+
+
+avgSum =
+
+    5.5967
+
+
+avgSum =
+
+    5.5867
+
+
+avgSum =
+
+    5.5767
+
+
+avgSum =
+
+    5.5667
+
+
+avgSum =
+
+    5.5567
+
+
+avgSum =
+
+    5.5467
+
+
+avgSum =
+
+    5.5367
+
+
+avgSum =
+
+    5.5267
+
+
+avgSum =
+
+    5.5167
+
+
+avgSum =
+
+    5.5067
+
+
+avgSum =
+
+    5.4967
+
+
+avgSum =
+
+    5.4867
+
+
+avgSum =
+
+    5.4767
+
+
+avgSum =
+
+    5.4667
+
+
+avgSum =
+
+    5.4567
+
+
+avgSum =
+
+    5.4467
+
+
+avgSum =
+
+    5.4367
+
+
+avgSum =
+
+    5.4267
+
+
+avgSum =
+
+    5.4167
+
+
+avgSum =
+
+    5.4067
+
+
+avgSum =
+
+    5.4000
+
+
+avgSum =
+
+    5.3933
+
+
+avgSum =
+
+    5.3867
+
+
+avgSum =
+
+    5.3800
+
+
+avgSum =
+
+    5.3700
+
+
+avgSum =
+
+    5.3633
+
+
+avgSum =
+
+    5.3533
+
+
+avgSum =
+
+    5.3467
+
+
+avgSum =
+
+    5.3400
+
+
+avgSum =
+
+    5.3333
+
+
+avgSum =
+
+    5.3267
+
+
+avgSum =
+
+    5.3167
+
+
+avgSum =
+
+    5.3067
+
+
+avgSum =
+
+    5.2967
+
+
+avgSum =
+
+    5.2867
+
+
+avgSum =
+
+    5.2800
+
+
+avgSum =
+
+    5.2700
+
+
+avgSum =
+
+    5.2633
+
+
+avgSum =
+
+    5.2533
+
+
+avgSum =
+
+    5.2433
+
+
+avgSum =
+
+    5.2367
+
+
+avgSum =
+
+    5.2300
+
+
+avgSum =
+
+    5.2233
+
+
+avgSum =
+
+    5.2133
+
+
+avgSum =
+
+    5.2067
+
+
+avgSum =
+
+    5.2000
+
+
+avgSum =
+
+    5.1933
+
+
+avgSum =
+
+    5.1867
+
+
+avgSum =
+
+    5.1767
+
+
+avgSum =
+
+    5.1700
+
+
+avgSum =
+
+    5.1633
+
+
+avgSum =
+
+    5.1567
+
+
+avgSum =
+
+    5.1467
+
+
+avgSum =
+
+    5.1400
+
+
+avgSum =
+
+    5.1333
+
+
+avgSum =
+
+    5.1267
+
+
+avgSum =
+
+    5.1200
+
+
+avgSum =
+
+    5.1133
+
+
+avgSum =
+
+    5.1067
+
+
+avgSum =
+
+    5.1000
+
+
+avgSum =
+
+    5.0933
+
+
+avgSum =
+
+    5.0833
+
+
+avgSum =
+
+    5.0767
+
+
+avgSum =
+
+    5.0667
+
+
+avgSum =
+
+    5.0567
+
+
+avgSum =
+
+    5.0500
+
+
+avgSum =
+
+    5.0400
+
+
+avgSum =
+
+    5.0333
+
+
+avgSum =
+
+    5.0233
+
+
+avgSum =
+
+    5.0167
+
+
+avgSum =
+
+    5.0100
+
+
+avgSum =
+
+     5
+
+
+avgSum =
+
+    4.9933
+
+
+avgSum =
+
+    4.9867
+
+
+avgSum =
+
+    4.9800
+
+
+avgSum =
+
+    4.9733
+
+
+avgSum =
+
+    4.9667
+
+
+avgSum =
+
+    4.9600
+
+
+avgSum =
+
+    4.9500
+
+
+avgSum =
+
+    4.9400
+
+
+avgSum =
+
+    4.9300
+
+
+avgSum =
+
+    4.9233
+
+
+avgSum =
+
+    4.9167
+
+
+avgSum =
+
+    4.9100
+
+
+avgSum =
+
+    4.9000
+
+
+avgSum =
+
+    4.8900
+
+
+avgSum =
+
+    4.8800
+
+
+avgSum =
+
+    4.8667
+
+
+avgSum =
+
+    4.8567
+
+
+avgSum =
+
+    4.8467
+
+
+avgSum =
+
+    4.8400
+
+
+avgSum =
+
+    4.8300
+
+
+avgSum =
+
+    4.8167
+
+
+avgSum =
+
+    4.8067
+
+
+avgSum =
+
+    4.7933
+
+
+avgSum =
+
+    4.7833
+
+
+avgSum =
+
+    4.7733
+
+
+avgSum =
+
+    4.7600
+
+
+avgSum =
+
+    4.7500
+
+
+avgSum =
+
+    4.7400
+
+
+avgSum =
+
+    4.7267
+
+
+avgSum =
+
+    4.7167
+
+
+avgSum =
+
+    4.7067
+
+
+avgSum =
+
+    4.6967
+
+
+avgSum =
+
+    4.6867
+
+
+avgSum =
+
+    4.6767
+
+
+avgSum =
+
+    4.6667
+
+
+avgSum =
+
+    4.6600
+
+
+avgSum =
+
+    4.6600
+
+
+avgSum =
+
+    4.6633
+
+
+avgSum =
+
+    4.6700
+
+
+avgSum =
+
+    4.6767
+
+
+avgSum =
+
+    4.6833
+
+
+avgSum =
+
+    4.6900
+
+
+avgSum =
+
+    4.6967
+
+
+avgSum =
+
+    4.7033
+
+
+avgSum =
+
+    4.7100
+
+
+avgSum =
+
+    4.7167
+
+
+avgSum =
+
+    4.7233
+
+
+avgSum =
+
+    4.7300
+
+
+avgSum =
+
+    4.7367
+
+
+avgSum =
+
+    4.7433
+
+
+avgSum =
+
+    4.7500
+
+
+avgSum =
+
+    4.7567
+
+
+avgSum =
+
+    4.7633
+
+
+avgSum =
+
+    4.7700
+
+
+avgSum =
+
+    4.7767
+
+
+avgSum =
+
+    4.7833
+
+
+avgSum =
+
+    4.7900
+
+
+avgSum =
+
+    4.7967
+
+
+avgSum =
+
+    4.8033
+
+
+avgSum =
+
+    4.8100
+
+
+avgSum =
+
+    4.8167
+
+
+avgSum =
+
+    4.8233
+
+
+avgSum =
+
+    4.8300
+
+
+avgSum =
+
+    4.8367
+
+
+avgSum =
+
+    4.8433
+
+
+avgSum =
+
+    4.8500
+
+
+avgSum =
+
+    4.8567
+
+
+avgSum =
+
+    4.8633
+
+
+avgSum =
+
+    4.8700
+
+
+avgSum =
+
+    4.8833
+
+
+avgSum =
+
+    4.8967
+
+
+avgSum =
+
+    4.9100
+
+
+avgSum =
+
+    4.9233
+
+
+avgSum =
+
+    4.9367
+
+
+avgSum =
+
+    4.9500
+
+
+avgSum =
+
+    4.9633
+
+
+avgSum =
+
+    4.9767
+
+
+avgSum =
+
+    4.9900
+
+
+avgSum =
+
+    5.0033
+
+
+avgSum =
+
+    5.0167
+
+
+avgSum =
+
+    5.0300
+
+
+avgSum =
+
+    5.0433
+
+
+avgSum =
+
+    5.0567
+
+
+avgSum =
+
+    5.0700
+
+
+avgSum =
+
+    5.0833
+
+
+avgSum =
+
+    5.0967
+
+
+avgSum =
+
+    5.1100
+
+
+avgSum =
+
+    5.1233
+
+
+avgSum =
+
+    5.1367
+
+
+avgSum =
+
+    5.1500
+
+
+avgSum =
+
+    5.1633
+
+
+avgSum =
+
+    5.1767
+
+
+avgSum =
+
+    5.1900
+
+
+avgSum =
+
+    5.2133
+
+
+avgSum =
+
+    5.2367
+
+
+avgSum =
+
+    5.2600
+
+
+avgSum =
+
+    5.2867
+
+
+avgSum =
+
+    5.3100
+
+
+avgSum =
+
+    5.3333
+
+
+avgSum =
+
+    5.3567
+
+
+avgSum =
+
+    5.3800
+
+
+avgSum =
+
+    5.4033
+
+
+avgSum =
+
+    5.4267
+
+
+avgSum =
+
+    5.4533
+
+
+avgSum =
+
+    5.4767
+
+
+avgSum =
+
+    5.5033
+
+
+avgSum =
+
+    5.5267
+
+
+avgSum =
+
+    5.5533
+
+
+avgSum =
+
+    5.5800
+
+
+avgSum =
+
+    5.6033
+
+
+avgSum =
+
+    5.6300
+
+
+avgSum =
+
+    5.6533
+
+
+avgSum =
+
+    5.6767
+
+
+avgSum =
+
+    5.7000
+
+
+avgSum =
+
+    5.7233
+
+
+avgSum =
+
+    5.7467
+
+
+avgSum =
+
+    5.7700
+
+
+avgSum =
+
+    5.7933
+
+
+avgSum =
+
+    5.8167
+
+
+avgSum =
+
+    5.8400
+
+
+avgSum =
+
+    5.8633
+
+
+avgSum =
+
+    5.8867
+
+
+avgSum =
+
+    5.9100
+
+
+avgSum =
+
+    5.9367
+
+
+avgSum =
+
+    5.9633
+
+
+avgSum =
+
+    5.9867
+
+
+avgSum =
+
+    6.0100
+
+
+avgSum =
+
+    6.0333
+
+
+avgSum =
+
+    6.0567
+
+
+avgSum =
+
+    6.0800
+
+
+avgSum =
+
+    6.1033
+
+
+avgSum =
+
+    6.1267
+
+
+avgSum =
+
+    6.1533
+
+
+avgSum =
+
+    6.1767
+
+
+avgSum =
+
+    6.2000
+
+
+avgSum =
+
+    6.2233
+
+
+avgSum =
+
+    6.2467
+
+
+avgSum =
+
+    6.2700
+
+
+avgSum =
+
+    6.2933
+
+
+avgSum =
+
+    6.3167
+
+
+avgSum =
+
+    6.3400
+
+
+avgSum =
+
+    6.3633
+
+
+avgSum =
+
+    6.3867
+
+
+avgSum =
+
+    6.4100
+
+
+avgSum =
+
+    6.4333
+
+
+avgSum =
+
+    6.4567
+
+
+avgSum =
+
+    6.4800
+
+
+avgSum =
+
+    6.5033
+
+
+avgSum =
+
+    6.5267
+
+
+avgSum =
+
+    6.5533
+
+
+avgSum =
+
+    6.5767
+
+
+avgSum =
+
+    6.6000
+
+
+avgSum =
+
+    6.6233
+
+
+avgSum =
+
+    6.6467
+
+
+avgSum =
+
+    6.6700
+
+
+avgSum =
+
+    6.6933
+
+
+avgSum =
+
+    6.7167
+
+
+avgSum =
+
+    6.7400
+
+
+avgSum =
+
+    6.7633
+
+
+avgSum =
+
+    6.7867
+
+
+avgSum =
+
+    6.8100
+
+
+avgSum =
+
+    6.8333
+
+
+avgSum =
+
+    6.8567
+
+
+avgSum =
+
+    6.8833
+
+
+avgSum =
+
+    6.9067
+
+
+avgSum =
+
+    6.9300
+
+
+avgSum =
+
+    6.9567
+
+
+avgSum =
+
+    6.9800
+
+
+avgSum =
+
+    7.0033
+
+
+avgSum =
+
+    7.0267
+
+
+avgSum =
+
+    7.0500
+
+
+avgSum =
+
+    7.0733
+
+
+avgSum =
+
+    7.0967
+
+
+avgSum =
+
+    7.1200
+
+
+avgSum =
+
+    7.1433
+
+
+avgSum =
+
+    7.1667
+
+
+avgSum =
+
+    7.1900
+
+
+avgSum =
+
+    7.2167
+
+
+avgSum =
+
+    7.2400
+
+
+avgSum =
+
+    7.2667
+
+
+avgSum =
+
+    7.2933
+
+
+avgSum =
+
+    7.3167
+
+
+avgSum =
+
+    7.3400
+
+
+avgSum =
+
+    7.3633
+
+
+avgSum =
+
+    7.3867
+
+
+avgSum =
+
+    7.4100
+
+
+avgSum =
+
+    7.4333
+
+
+avgSum =
+
+    7.4600
+
+
+avgSum =
+
+    7.4833
+
+
+avgSum =
+
+    7.5100
+
+
+avgSum =
+
+    7.5333
+
+
+avgSum =
+
+    7.5567
+
+
+avgSum =
+
+    7.5833
+
+
+avgSum =
+
+    7.6067
+
+
+avgSum =
+
+    7.6300
+
+
+avgSum =
+
+    7.6533
+
+
+avgSum =
+
+    7.6767
+
+
+avgSum =
+
+    7.7033
+
+
+avgSum =
+
+    7.7267
+
+
+avgSum =
+
+    7.7500
+
+
+avgSum =
+
+    7.7733
+
+
+avgSum =
+
+    7.8000
+
+
+avgSum =
+
+    7.8233
+
+
+avgSum =
+
+    7.8467
+
+
+avgSum =
+
+    7.8700
+
+
+avgSum =
+
+    7.8933
+
+
+avgSum =
+
+    7.9200
+
+
+avgSum =
+
+    7.9433
+
+
+avgSum =
+
+    7.9667
+
+
+avgSum =
+
+    7.9900
+
+
+avgSum =
+
+    8.0133
+
+
+avgSum =
+
+    8.0367
+
+
+avgSum =
+
+    8.0600
+
+
+avgSum =
+
+    8.0833
+
+
+avgSum =
+
+    8.1067
+
+
+avgSum =
+
+    8.1300
+
+
+avgSum =
+
+    8.1533
+
+
+avgSum =
+
+    8.1767
+
+
+avgSum =
+
+    8.2000
+
+
+avgSum =
+
+    8.2233
+
+
+avgSum =
+
+    8.2467
+
+
+avgSum =
+
+    8.2700
+
+
+avgSum =
+
+    8.2933
+
+
+avgSum =
+
+    8.3167
+
+
+avgSum =
+
+    8.3400
+
+
+avgSum =
+
+    8.3633
+
+
+avgSum =
+
+    8.3867
+
+
+avgSum =
+
+    8.4100
+
+
+avgSum =
+
+    8.4333
+
+
+avgSum =
+
+    8.4567
+
+
+avgSum =
+
+    8.4800
+
+
+avgSum =
+
+    8.5033
+
+
+avgSum =
+
+    8.5267
+
+
+avgSum =
+
+    8.5500
+
+
+avgSum =
+
+    8.5733
+
+
+avgSum =
+
+    8.5967
+
+
+avgSum =
+
+    8.6200
+
+
+avgSum =
+
+    8.6433
+
+
+avgSum =
+
+    8.6667
+
+
+avgSum =
+
+    8.6900
+
+
+avgSum =
+
+    8.7133
+
+
+avgSum =
+
+    8.7367
+
+
+avgSum =
+
+    8.7600
+
+
+avgSum =
+
+    8.7867
+
+
+avgSum =
+
+    8.8100
+
+
+avgSum =
+
+    8.8333
+
+
+avgSum =
+
+    8.8567
+
+
+avgSum =
+
+    8.8800
+
+
+avgSum =
+
+    8.9000
+
+
+avgSum =
+
+    8.9200
+
+
+avgSum =
+
+    8.9400
+
+
+avgSum =
+
+    8.9600
+
+
+avgSum =
+
+    8.9833
+
+
+avgSum =
+
+    9.0033
+
+
+avgSum =
+
+    9.0267
+
+
+avgSum =
+
+    9.0467
+
+
+avgSum =
+
+    9.0667
+
+
+avgSum =
+
+    9.0867
+
+
+avgSum =
+
+    9.1100
+
+
+avgSum =
+
+    9.1333
+
+
+avgSum =
+
+    9.1567
+
+
+avgSum =
+
+    9.1800
+
+
+avgSum =
+
+    9.2033
+
+
+avgSum =
+
+    9.2233
+
+
+avgSum =
+
+    9.2467
+
+
+avgSum =
+
+    9.2667
+
+
+avgSum =
+
+    9.2900
+
+
+avgSum =
+
+    9.3133
+
+
+avgSum =
+
+    9.3333
+
+
+avgSum =
+
+    9.3533
+
+
+avgSum =
+
+    9.3733
+
+
+avgSum =
+
+    9.3967
+
+
+avgSum =
+
+    9.4167
+
+
+avgSum =
+
+    9.4367
+
+
+avgSum =
+
+    9.4567
+
+
+avgSum =
+
+    9.4767
+
+
+avgSum =
+
+    9.5000
+
+
+avgSum =
+
+    9.5200
+
+
+avgSum =
+
+    9.5400
+
+
+avgSum =
+
+    9.5600
+
+>> 

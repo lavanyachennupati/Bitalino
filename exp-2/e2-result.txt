@@ -1,0 +1,22 @@
+Connected
+BITalinoV3.10_20130710
+Start Acquisition
+Data read
+CLOSED
+Done
+
+begin =
+
+    4.5900
+
+
+finish =
+
+    9.5900
+
+
+begin =
+
+   12.5900
+
+>> 
